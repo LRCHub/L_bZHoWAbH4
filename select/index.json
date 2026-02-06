@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "醒めない孤独の殺し方",
+  "base_artist": "Canaxi",
+  "createdAt": "2026-02-06T21:06:48.858976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "醒めない孤独の殺し方",
+      "artist": "Canaxi",
+      "has_synced": false,
+      "path": "select/pl_01_醒めない孤独の殺し方_Canaxi.txt"
+    }
+  ]
+}
